@@ -1,3 +1,9 @@
+'''mermaid
+graph TD;
+A-->B;
+A-->C;
+
+
 ### Важное объявление
 
 ---
@@ -18,8 +24,5 @@ https://practicum.yandex.ru/git-basics/
 ---
 
 
-'''mermaid
-graph TD;
-A-->B;
-A-->C;
+
 '''
