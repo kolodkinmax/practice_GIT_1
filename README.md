@@ -1,4 +1,3 @@
-'''mermaid
 mindmap
   root((mindmap))
     Origins
@@ -16,4 +15,3 @@ mindmap
     Tools
       Pen and paper
       Mermaid
-'''
